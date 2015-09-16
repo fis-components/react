@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/facebook/react.git",
+    "version": "v0.13.3",
+    "name": "react",
+    "main": "react.js"
+}
