@@ -1,0 +1,7 @@
+{
+    "version": "v0.14.2",
+    "repos": "https://github.com/facebook/react.git",
+    "name": "react",
+    "main": "react.js",
+    "umd2commonjs": false
+}
