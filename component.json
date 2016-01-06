@@ -1,8 +1,14 @@
 {
-    "version": "v0.14.3",
     "repos": "https://github.com/facebook/react.git",
     "name": "react",
     "main": "react.js",
     "umd2commonjs": false,
-    "hook": ".hook.js"
+    "hook": ".hook.js",
+    "version": "0.14.4",
+    "description": "React is a JavaScript library for building user interfaces.",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "fbjs": "^0.3.1"
+    }
 }
