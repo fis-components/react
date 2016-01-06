@@ -4,11 +4,11 @@
     "main": "react.js",
     "umd2commonjs": false,
     "hook": ".hook.js",
-    "version": "0.14.4",
+    "version": "0.14.5",
     "description": "React is a JavaScript library for building user interfaces.",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "fbjs": "^0.3.1"
+        "fbjs": "^0.6.0"
     }
 }
