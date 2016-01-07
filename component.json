@@ -1,14 +1,14 @@
 {
-    "repos": "https://github.com/facebook/react.git",
     "name": "react",
-    "main": "react.js",
-    "umd2commonjs": false,
-    "hook": ".hook.js",
-    "version": "0.14.5",
     "description": "React is a JavaScript library for building user interfaces.",
+    "repos": "https://github.com/facebook/react.git",
+    "main": "react.js",
     "tag": "master",
     "reposType": "npm",
-    "dependencies": {
-        "fbjs": "^0.6.0"
-    }
+    "files": null,
+    "dependencies": {},
+    "paths": {
+        "dist": "."
+    },
+    "version": "0.14.0"
 }
