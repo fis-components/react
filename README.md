@@ -33,7 +33,7 @@ You'll notice that we used an HTML-like syntax; [we call it JSX](https://faceboo
 
 ## Installation
 
-The fastest way to get started is to serve JavaScript from the CDN (also available on [cdnjs](https://cdnjs.com/libraries/react) and [jsdelivr](http://www.jsdelivr.com/#!react)):
+The fastest way to get started is to serve JavaScript from the CDN (also available on [cdnjs](https://cdnjs.com/libraries/react) and [jsdelivr](https://www.jsdelivr.com/projects/react)):
 
 ```html
 <!-- The core React library -->
@@ -48,6 +48,12 @@ If you'd like to use [bower](http://bower.io), it's as easy as:
 
 ```sh
 bower install --save react
+```
+
+And it's just as easy with [npm](http://npmjs.com):
+
+```sh
+npm i --save react
 ```
 
 ## Contribute
