@@ -1,7 +1,7 @@
 {
     "name": "react",
     "description": "React is a JavaScript library for building user interfaces.",
-    "repos": "https://github.com/facebook/react.git",
+    "repos": "https://github.com/facebook/react",
     "main": "react",
     "tag": "master",
     "reposType": "npm",
@@ -10,5 +10,5 @@
     "paths": {
         "dist": "."
     },
-    "version": "0.13.0"
+    "version": "0.13.1"
 }
