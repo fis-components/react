@@ -1,4 +1,4 @@
-# [React](https://facebook.github.io/react/) [![Build Status](https://img.shields.io/travis/facebook/react/master.svg?style=flat)](https://travis-ci.org/facebook/react) [![Coverage Status](https://img.shields.io/coveralls/facebook/react/master.svg?style=flat)](https://coveralls.io/github/facebook/react?branch=master) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
+# [React](https://facebook.github.io/react/) [![Build Status](https://img.shields.io/travis/facebook/react/master.svg?style=flat)](https://travis-ci.org/facebook/react) [![Coverage Status](https://img.shields.io/coveralls/facebook/react/master.svg?style=flat)](https://coveralls.io/github/facebook/react?branch=master) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md#pull-requests)
 
 React is a JavaScript library for building user interfaces.
 
@@ -37,12 +37,12 @@ The fastest way to get started is to serve JavaScript from the CDN (also availab
 
 ```html
 <!-- The core React library -->
-<script src="https://fb.me/react-0.14.7.js"></script>
+<script src="https://fb.me/react-0.14.8.js"></script>
 <!-- The ReactDOM Library -->
-<script src="https://fb.me/react-dom-0.14.7.js"></script>
+<script src="https://fb.me/react-dom-0.14.8.js"></script>
 ```
 
-We've also built a [starter kit](https://facebook.github.io/react/downloads/react-0.14.7.zip) which might be useful if this is your first time using React. It includes a webpage with an example of using React with live code.
+We've also built a [starter kit](https://facebook.github.io/react/downloads/react-0.14.8.zip) which might be useful if this is your first time using React. It includes a webpage with an example of using React with live code.
 
 If you'd like to use [bower](http://bower.io), it's as easy as:
 
