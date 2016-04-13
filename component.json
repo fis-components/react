@@ -10,5 +10,5 @@
     "paths": {
         "dist": "."
     },
-    "version": "0.14.8"
+    "version": "15.0.0-rc.2"
 }
